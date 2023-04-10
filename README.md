@@ -3,3 +3,5 @@
 ## Introduction
 
 This is a project i have created based on a nodejs project i created for fun a while back: https://github.com/suraj200981/URLShortener--Full-Stack-MEVN-Project
+
+This old nodejs project had a monolithic architecture so i have decided to recreate it with a modern microservices architecture.
