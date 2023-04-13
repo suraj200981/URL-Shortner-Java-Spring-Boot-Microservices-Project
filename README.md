@@ -8,3 +8,11 @@ This old nodejs project had a monolithic architecture so i have decided to recre
 
 ## Backend architecture:
 ![architecture design](design.png)
+
+
+
+
+
+### Validation Microservice:
+
+https://github.com/suraj200981/URL-Shortner-validation-service
