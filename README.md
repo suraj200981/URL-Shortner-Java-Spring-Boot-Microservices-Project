@@ -16,3 +16,7 @@ This old nodejs project had a monolithic architecture so i have decided to recre
 ### Validation Microservice:
 
 https://github.com/suraj200981/URL-Shortner-validation-service
+
+### Shortener Microservice:
+
+https://github.com/suraj200981/URL-Shortner-validation-service
