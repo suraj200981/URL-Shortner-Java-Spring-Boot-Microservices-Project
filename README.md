@@ -20,3 +20,8 @@ https://github.com/suraj200981/URL-Shortner-validation-service
 ### Shortener Microservice:
 
 https://github.com/suraj200981/URL-Shortner-validation-service
+
+
+### Redirection Microservice:
+
+https://github.com/suraj200981/redirection-service
