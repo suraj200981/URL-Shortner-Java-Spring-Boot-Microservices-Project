@@ -7,6 +7,9 @@ This is a project i have created based on a nodejs project i created for fun a w
 This old nodejs project had a monolithic architecture so i have decided to recreate it with a modern microservices architecture.
 
 ## Backend architecture:
+
+This is subject to change as the application gets more advanced so i will update the design when I get a chance.
+
 ![architecture design](design.png)
 
 
